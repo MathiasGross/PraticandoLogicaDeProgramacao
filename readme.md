@@ -21,7 +21,11 @@ O foco inicial está na construção do raciocínio lógico através de pseudoc�
 ```text
 .
 ├── Portugol/
-│
+├────── EstruturasSequenciais/     # Operações básicas, entrada/saída e cálculos lineares
+├────── EstruturasCondicionais/    # Tomada de decisões (se, senao, escolha-caso)
+├────── EstruturasRepeticao/       # Laços de iteração (para, enquanto, faca-enquanto)
+├────── VetoresMatrizes/           # Estruturas de dados homogêneas (unidimensionais e bidimensionais)
+└──────readme.md
 ├── Python/
 │
 └── README.md
