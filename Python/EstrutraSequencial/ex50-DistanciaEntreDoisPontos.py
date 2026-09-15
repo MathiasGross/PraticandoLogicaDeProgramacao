@@ -1,0 +1,1 @@
+#Descrição: Construa um algoritmo que leia as coordenadas X e Y de dois pontos no plano cartesiano (P1(x1, y1) e P2(x2, y2)) e calcule a distância entre eles. Fórmula: Distancia = Matematica.raiz(Matematica.potencia(x2 - x1, 2.0) + Matematica.potencia(y2 - y1, 2.0), 2.0)

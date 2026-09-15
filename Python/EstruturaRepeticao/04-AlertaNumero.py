@@ -1,0 +1,1 @@
+#04-Alerta de Número: Percorra um texto e mude um sinalizador para True se encontrar qualquer número (use .isdigit()). Pare o laço no primeiro número achado.

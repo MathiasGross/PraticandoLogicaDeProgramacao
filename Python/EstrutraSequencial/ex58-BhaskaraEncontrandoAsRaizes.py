@@ -1,0 +1,1 @@
+#Descrição: Aproveitando o concept anterior, faça um programa que leia os coeficientes A, B e C de uma equação cujas raízes sejam reais e exiba os valores de X' e X''. Fórmulas: Delta = (B * B) - (4 * A * C); X1 = (-B + Matematica.raiz(Delta, 2.0)) / (2 * A); X2 = (-B - Matematica.raiz(Delta, 2.0)) / (2 * A)

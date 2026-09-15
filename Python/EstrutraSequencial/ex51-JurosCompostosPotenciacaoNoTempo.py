@@ -1,0 +1,1 @@
+#Descrição: Um investidor aplicou um capital inicial C a uma taxa de juros compostos de i ao mês (ex: 0.05 para 5%) durante um período de t meses. Escreva um algoritmo que leia C, i e t, calculando o montante final acumulado. Fórmula: Montante = C * Matematica.potencia(1 + i, t)

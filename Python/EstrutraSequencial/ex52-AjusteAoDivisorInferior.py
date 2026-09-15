@@ -1,0 +1,1 @@
+#Descrição: Faça um programa que receba dois números inteiros, um Dividendo e um Divisor. Sem usar estruturas condicionais, calcule e mostre o maior múltiplo do Divisor que é menor ou igual ao Dividendo. Fórmula: MaiorMultiplo = Dividendo - (Dividendo % Divisor)

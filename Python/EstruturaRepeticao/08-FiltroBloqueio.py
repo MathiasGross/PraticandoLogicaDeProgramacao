@@ -1,0 +1,1 @@
+#08-Filtro de Bloqueio: Imagine que os caracteres @ e # são proibidos. Varra o texto e ative um sinalizador valido = False caso encontre algum deles. Use o break.

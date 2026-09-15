@@ -12,10 +12,10 @@ A divisão do módulo segue a evolução conceitual do aprendizado:
 
 ```text
 Portugol/
-├── EstruturasSequenciais/     # Operações básicas, entrada/saída e cálculos lineares
-├── EstruturasCondicionais/    # Tomada de decisões (se, senao, escolha-caso)
-├── EstruturasRepeticao/       # Laços de iteração (para, enquanto, faca-enquanto)
-├── VetoresMatrizes/           # Estruturas de dados homogêneas (unidimensionais e bidimensionais)
+├── EstruturasSequenciais/     
+├── EstruturasCondicionais/    
+├── EstruturasRepeticao/
+├── VetoresMatrizes/
 └── readme.md
 ```
 
@@ -27,34 +27,42 @@ Declaração e tipagem de variáveis (inteiro, real, cadeia, caracter, logico)
 
 Entrada e saída de dados (leia() e escreva())
 
-Operadores aritméticos: soma (+), subtração (-), multiplicação (*), divisão (/) e módulo/resto (%)
+Operadores aritméticos: 
+-soma (+)
+-subtração (-)
+-multiplicação (*)
+-divisão (/)
+-módulo/resto (%)
+
 
 2. 📂 EstruturasCondicionais/
+
 Desvios de fluxo com base em condições lógicas e relacionais:
 
-Operadores de comparação (==, !=, >, <, >=, <=)
+-Operadores de comparação (==, !=, >, <, >=, <=)
 
-Conectivos lógicos (e, ou, nao)
+-Conectivos lógicos (e, ou, nao)
 
-Condicionais simples, compostas e aninhadas (se / senao)
+-Condicionais simples, compostas e aninhadas (se / senao)
 
-Estruturas de múltipla escolha (escolha / caso / caso contrario)
+-Estruturas de múltipla escolha (escolha / caso / caso contrario)
 
 3. 📂 EstruturasRepeticao/
 
-Automação de tarefas repetitivas e iteração controlada:
+-Automação de tarefas repetitivas e iteração controlada:
 
-Laço com teste no início: enquanto(...)
+-Laço com teste no início: enquanto(...)
 
-Laço com teste no final: faca { ... } enquanto(...)
+-Laço com teste no final: faca { ... } enquanto(...)
 
-Laço com variável de controle/passo definido: para(...)
+-Laço com variável de controle/passo definido: para(...)
 
-Tratamento de contadores, acumuladores e pontos de parada
+-Tratamento de contadores, acumuladores e pontos de parada
 
 4. 📂 VetoresMatrizes/
-Manipulação de coleções de dados indexados na memória:
 
-Vetores (arrays 1D): preenchimento, busca, ordenação e exibição de listas de dados
+-Manipulação de coleções de dados indexados na memória:
 
-Matrizes (arrays 2D): iteração aninhada em linhas e colunas, tabelas e operações matemáticas
+	-Vetores (arrays 1D): preenchimento, busca, ordenação e exibição de listas de dados.
+
+	-Matrizes (arrays 2D): iteração aninhada em linhas e colunas, tabelas e operações matemáticas.

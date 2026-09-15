@@ -1,0 +1,1 @@
+#09-Casal de Validações: Crie dois sinalizadores: tem_letra e tem_numero. Varra o texto alterando-os para True quando encontrar cada tipo. Use break apenas se ambos já forem True.

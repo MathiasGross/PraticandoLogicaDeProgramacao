@@ -1,0 +1,1 @@
+#Descrição: Uma máquina produz camisas e as embala em caixas grandes (com 50 unidades) e caixas médias (com 10 unidades). Leia o total de camisas e diga quantas caixas grandes serão cheias e quantas camisas sobram para as médias.

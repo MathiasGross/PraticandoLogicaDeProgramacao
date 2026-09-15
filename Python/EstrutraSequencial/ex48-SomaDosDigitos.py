@@ -1,0 +1,1 @@
+#Descrição: Leia um número de 3 dígitos e exiba a soma de seus algarismos (Ex: se ler 123, o programa deve calcular 1 + 2 + 3 e mostrar 6).

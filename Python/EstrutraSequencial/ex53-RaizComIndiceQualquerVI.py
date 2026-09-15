@@ -1,0 +1,1 @@
+#Descrição: Crie um algoritmo adaptável que receba do usuário um valor real positivo (V) e um índice inteiro (I). O programa deve calcular e exibir a raiz de índice I do valor V. Fórmula: Resultado = Matematica.potencia(V, 1.0 / I)

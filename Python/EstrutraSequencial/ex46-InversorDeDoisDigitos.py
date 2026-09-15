@@ -1,0 +1,1 @@
+#Descrição: Leia um número de dois dígitos (ex: 37) e, usando apenas matemática (/ e %), exiba o número invertido (73).

@@ -1,0 +1,1 @@
+#10-O Desafio do seu Exercício: Crie a lógica completa onde o usuário digita um texto, o programa valida se tem pelo menos 1 maiúscula E pelo menos 1 número usando for e sinalizadores. No final, exiba "Formato Válido" ou "Formato Inválido".

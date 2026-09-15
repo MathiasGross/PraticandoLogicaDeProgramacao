@@ -1,0 +1,1 @@
+#Descrição: Crie um programa que leia um número de 4 dígitos. O programa deve isolar os 4 algarismos, somar 1 a cada um deles, e depois juntar tudo de novo em um único número de 4 dígitos usando multiplicação e adição (Ex: Se ler 1234, deve processar e exibir o número 2345).

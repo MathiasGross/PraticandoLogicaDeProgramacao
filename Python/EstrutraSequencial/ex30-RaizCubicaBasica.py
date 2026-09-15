@@ -1,0 +1,1 @@
+#Descrição: Crie um algoritmo que leia um número real e apresente a sua raiz cúbica. Fórmula: Resultado = Matematica.raiz(numero, 3.0)

@@ -1,0 +1,1 @@
+#07-Validador de Tamanho e Conteúdo: Verifique se uma string tem mais de 5 caracteres E se possui a letra "Z".

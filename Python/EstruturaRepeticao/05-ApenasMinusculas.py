@@ -1,0 +1,1 @@
+#05-Apenas Minúsculas: Crie um sinalizador chamado tudo_minusculo = True. Varra uma palavra e, se achar qualquer letra maiúscula (.isupper()), mude o sinalizador para False e use o break.

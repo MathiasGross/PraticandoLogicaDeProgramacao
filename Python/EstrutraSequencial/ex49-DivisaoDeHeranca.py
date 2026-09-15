@@ -1,0 +1,1 @@
+#Descrição: Um fazendeiro quer dividir suas 100 cabeças de gado entre seus 3 filhos de forma que o mais velho ganhe o dobro dos outros dois, e o restante (o que não puder ser dividido igualmente) seja doado. Calcule a parte de cada um usando apenas divisões inteiras e restos.

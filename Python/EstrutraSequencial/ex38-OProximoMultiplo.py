@@ -1,0 +1,1 @@
+#Descrição: Leia um número inteiro. Calcule e exiba quanto falta para ele atingir o próximo múltiplo de 10 (Ex: se ler 23, faltam 7).

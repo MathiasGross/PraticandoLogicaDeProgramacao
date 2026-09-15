@@ -1,0 +1,1 @@
+#Descrição: Desenvolva um programa que leia a medida da aresta (a) de um cubo e calcule o valor da sua diagonal principal utilizando radiciação. Fórmula: Diagonal = a * Matematica.raiz(3.0, 2.0)

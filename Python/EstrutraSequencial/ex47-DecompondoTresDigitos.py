@@ -1,0 +1,1 @@
+#Descrição: Leia um número entre 100 e 999. Separe e exiba a Centena, a Dezena e a Unidade separadamente.

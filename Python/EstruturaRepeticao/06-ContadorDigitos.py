@@ -1,0 +1,1 @@
+#06-Contador de Dígitos: Percorra uma frase e conte quantos números existem nela no total (aqui não usa break, pois precisa contar todos).

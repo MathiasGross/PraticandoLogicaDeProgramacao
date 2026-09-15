@@ -1,0 +1,1 @@
+#Descrição: Um cliente comprou um produto e pagou com uma nota de R$ 50. Leia o valor do produto (inteiro e menor que 50) e diga qual o menor número de notas de R$ 20, R$ 10, R$ 5 e R$ 2 ele deve receber de troco.

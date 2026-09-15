@@ -1,0 +1,1 @@
+#Descrição: Crie um programa que determine o valor de Delta (Δ) de uma equação de segundo grau, dados os coeficientes A, B e C. Fórmula: Delta = (B * B) - (4 * A * C)

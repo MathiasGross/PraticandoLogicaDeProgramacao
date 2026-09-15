@@ -1,0 +1,1 @@
+#Descrição: Crie um algoritmo que leia o raio de um círculo, calcule e exiba a sua área. Considere pi = 3.14159. Fórmula: Area = 3.14159 * Matematica.potencia(raio, 2.0)
