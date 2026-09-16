@@ -18,11 +18,9 @@ Repositório dedicado ao estudo, prática e consolidação dos fundamentos da li
 
 ```text
 .
-├── fundamentos/          
-├── estruturas_controle/  
-├── funcoes_e_modulos/    
-├── poo/                  
-├── manipulacao_dados/    
-├── projetos_praticos/    
-└── README.md
+├── EstruturasSequenciais/     
+├── EstruturasCondicionais/    
+├── EstruturasRepeticao/
+├── VetoresMatrizes/
+└── readme.md
 ```
